@@ -1,0 +1,11 @@
+variable "user_data_path" {}
+variable "key_name" {}
+variable "public_key_path" {}
+variable "aws_amis" {}
+variable "aws_region" {}
+variable "vpc_id" {}
+variable "vpc_cidr_block" {}
+variable "vpc_subnet_id" {}
+variable "sg_elb_id" {}
+variable "elb_name" {}
+variable "sg_default_id" {}
